@@ -147,6 +147,8 @@ dependencies = [
 [[package]]
 name = "struct-to-json-db"
 version = "0.1.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "73c5e6fb9a7106f9a8dde0a1dd74b834e7ee91dff05e0ad2f6bc45efbeef395d"
 dependencies = [
  "paste",
  "rand",
@@ -156,6 +158,8 @@ dependencies = [
 [[package]]
 name = "struct-to-json-db-macro"
 version = "0.1.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "b6bf58c818d43283cf361627346ce3252d7ded3a9a677d26e596021dc0799e89"
 dependencies = [
  "proc-macro2",
  "quote",
