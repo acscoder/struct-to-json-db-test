@@ -1,2 +1,4 @@
 /target
 /struct-to-json-db
+.env
+/diagramsql
